@@ -24,6 +24,7 @@ require (
 	github.com/hashicorp/go-hclog v0.16.1
 	github.com/hashicorp/go-plugin v1.4.2
 	github.com/jeremywohl/flatten v1.0.1
+	github.com/jhump/protoreflect v1.6.0
 	github.com/klauspost/compress v1.12.2 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/lib/pq v1.10.2
@@ -48,4 +49,5 @@ require (
 	google.golang.org/api v0.47.0
 	google.golang.org/protobuf v1.26.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gotest.tools/v3 v3.0.2
 )
